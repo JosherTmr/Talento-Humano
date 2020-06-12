@@ -1,0 +1,7 @@
+id_empleado;tipo_documento;num_docu_fam;tipo_fam;genero_fam;nombre_familiar;apellido1_fam;apellido2_fam;fecha_nacimiento_fam
+100100;3;596559340;pareja;femenino;Sofia;Rodhes;Sparks;1995-05-05
+100100;2;700877671;hijo;masculino;Nathaniel;Archibold;Rodhes;2004-12-12
+100117;3;334887157;pareja;masculino;Eric;Osorio;Carcamo;1988-08-06
+100101;3;485839000;pareja;femenino;Serena;Cardona;Mercado;1980-05-27
+100103;1;957614201;hijo;femenino;Lorena;Ramirez;Restrepo;2016-12-31
+100112;3;791095079;madre;femenino;Monica;Perez;Zarate;1975-04-04

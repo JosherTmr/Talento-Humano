@@ -1,0 +1,11 @@
+id_producto;tipo_producto;stock ;descripcion ;nombre ;fecha_restock ;precio ;unidades
+900001;1;30;"Teléfono móvil, Pantalla: 4.7"", 750 x 1334 pixels, Procesador: Apple A10 Fusion, RAM: 2GB";iPhone 7;2020-08-01;1700000;30
+900002;1;100;Procesador Intel Core i5dual core de 2,9 GHzTurbo Boost de hasta 3,3 GHzSSD basado en PCle de 256GB78GB de memoria de 2133 MHzIntel Iris Graphics 550Trackpad Force TouchCuatro puertos Thunderbolt 3;Macbook pro;2020-10-02;7700000;100
+900003;1;500;"PANTALLA: 5,99 pulgadas 18:92.160 x 1.080 píxeles450 nits, ratio 77,4%;  PROCESADOR Snapdragon 636Octa Core Kryo a 1,8 Ghz GPU Adreno 509RAM4 GB LPDDR3";Redmi Note 5;2020-12-03;700000;500
+900004;2;1000;Software de Simulación;ProModel;2020-11-04;500000;1000
+900005;2;1000;Software de procesamiento estadístico;StatGraphics;2020-09-05;500000;1000
+900006;1;1500;"Marca: Apple, Línea: iPad Pro, Modelo: 2020, WiFi: 128 GB, Capacidad: 128 GB, Conexión celular: No, Tamaño de la pantalla: 11""";Ipad Pro;2020-12-06;4700000;1500
+900007;2;400;Instalador de windows + Licencia;Windows 10 pro;2021-01-07;970000;400
+900008;2;2000;"Procesador: Intel Core i5-10210U Processor ( 1.60GHz 6MB ), Sistema Operativo: Windows 10 Home 64, Pantalla: 14,0""FHD IPS LED Backlight AntiGlare 1920x1080";IdeaPad S540;2020-12-08;2900000;2000
+900009;1;1000;Marca: Apple, Línea: iPad, Modelo: 2019, Versión: 2019, Modelo alfanumérico: A2133, Capacidad: 128 GB, Tamaño de la pantalla: 10.2 pulgadas;Ipad air;2020-12-09;2200000;1000
+900010;2;0;Teléfono móvil, Pantalla: 5.8 pulgadas (OLED), Resolución: 2,436x1,125 pixeles, Densidad de pixeles: 458ppp, HDR: Dolby Vision y HDR10, Procesador: Apple A12 Bionic;iPhone XS;2020-12-10;3000000;0

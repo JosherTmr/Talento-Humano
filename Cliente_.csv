@@ -1,0 +1,11 @@
+id_cliente;tipo_documento;nro_documento;nombre;direccion_departamento;direccion_ciudad;direccion_calle;direccion_codigo_postal;correo;telefono_fijo;telefono_celular;id_empleado;estado_cliente
+102040;3;180450242;Daniela Barboza Primera;Bolívar;Cartagena;Urb. La princesa mz 20 lote 4;131194;dbarboza18@gmail.com;6618405;324526453;100114;1
+102044;6;144606289;R&D Tech;Bolívar;Cartagena;DIagonal 32 nro 86-54;133638;ryd@tech.co;6702031;325595957;100115;1
+102048;3;784001471;Esteban Barboza Pérez;Atlántico;Barranquilla;Carrera 54 No. 68 - 80 El Prado;88261;ebp0905@outlook.es;3752449;310670280;100116;1
+102052;3;198800561;Luis Fernando Imbett Osorio;Atlántico;Barranquilla;Kra 23 No 80B - 64 Los almendros;84997;lufeio@gmail.com;3261379;320568049;100117;1
+102056;6;305444305;Innova Soluciones S.A.S;Bolívar;Cartagena;Carrerra 56nro32-145;132181;innovasolu@gmail.com;6710480;312417479;100118;2
+102060;3;603799678;Josue Hernandez Viloria;Atlántico;Barranquilla;Calle 47 No. 18 - 11 cordialidad;82617;johevi@gmail.com;3375671;314568007;100119;1
+102064;3;583038817;María Fernanda Campo Romero;Bolívar;Cartagena;Calle 30nro55-76;130246;mafecaro11@outlook.es;6673500;324603562;100114;2
+102068;6;935023141;Optimiza LTDA.;Bolívar;Cartagena;Carrera 55nro30D-2;131818;info@optimiza.co;6731808;310879061;100115;2
+102072;6;590918222;Growth S.A.;Atlántico;Barranquilla;Cra 10 No. 13A - 24 La playa ;88017;growth@sa.co;3474842;313961707;100116;1
+102076;3;697011376;Diana Barboza Primera;Bolívar;Cartagena;Cl 3C no 56 - 148 El Libertador;134835;dprimera3445@hotmail.com;6612146;324497841;100117;2

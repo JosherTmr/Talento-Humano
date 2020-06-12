@@ -1,0 +1,21 @@
+id_contrato;estado_civil;estado_empleado;genero_empleado;sede;localización;id_eps;id_arl;id_caja_compensacion;id_pension
+454420;casado;laborando;Masculino;Centro;401;9;557285;1;230201
+454423;casado;laborando;Masculino;Avenida;201;7;557285;2;230301
+454426;casado;laborando;Femenino;Centro;400;8;557285;2;230901
+454429;union libre;laborando;Masculino;Centro;301;9;557285;2;230904
+454432;soltero;laborando;Femenino;Centro;201;12;557285;2;231001
+454435;casado;laborando;Femenino;Avenida;202;13;557285;1;250014
+454438;soltero;laborando;Masculino;Avenida;202;14;557285;1;250002
+454441;union libre;laborando;Masculino;Centro;302;13;557285;2;250003
+454444;soltero;laborando;Femenino;Centro;303;14;557285;1;250007
+454447;soltero;laborando;Femenino;Avenida;203;7;557285;2;230201
+454450;union libre;laborando;Masculino;Centro;304;8;557285;2;230301
+454453;casado;laborando;Masculino;Centro;305;9;557285;2;230901
+454456;casado;laborando;Femenino;Centro;305;18;557285;1;230904
+454459;soltero;laborando;Masculino;Avenida;100;5;557285;1;231001
+454462;union libre;laborando;Masculino;Centro;101;7;557285;2;250014
+454465;casado;vacaciones;Femenino;Centro;101;12;557285;1;250002
+454468;union libre;laborando;Masculino;Centro;101;13;557285;2;250003
+454471;soltero;laborando;Femenino;Avenida;100;14;557285;1;250007
+454474;soltero;laborando;Femenino;Avenida;100;7;557285;2;230201
+454477;viudo;vacaciones;Masculino;Avenida;100;8;557285;2;230201
